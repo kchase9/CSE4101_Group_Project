@@ -1,2 +1,3 @@
 Include installation and running instructions:
-pip install numpy pygame
+pip install numpy 
+pip install pygame
